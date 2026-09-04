@@ -24,7 +24,6 @@ A simple Rock Paper Scissors game built using HTML, CSS and JavaScript.
 
 ##  Project Structure
 
-Samiksha tupe
 rock-paper-scissors-game
 │
 ├── index.html
